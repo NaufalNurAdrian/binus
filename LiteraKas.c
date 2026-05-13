@@ -6,6 +6,9 @@ int main() {
 
     printf("The naufal is: %c\n", c);
     printf("The naufal is: %c\n", c);
+
+    printf("The naufal is: %c\n", c);
+    printf("The naufal is: %c\n", c);
     return 0;
 }
 
