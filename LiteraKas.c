@@ -23,7 +23,7 @@ int main() {
 int main() {
     char c = 'A';
 
-    printf("The character is: %c\n", c);
+    printf("The kinanti: %c\n", c);
     return 0;
 }
 
