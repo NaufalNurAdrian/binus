@@ -4,7 +4,7 @@
 int main() {
     char c = 'A';
 
-    printf("The character is: %c\n", c);
+    printf("The naufal is: %c\n", c);
     return 0;
 }
 
@@ -13,8 +13,8 @@ int main() {
 //azril
 int main() {
     char c = 'A';
-
-    printf("The character is: %c\n", c);
+    
+    printf("The ashjing is: %c\n", c);
     return 0;
 }
 
