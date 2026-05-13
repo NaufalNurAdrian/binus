@@ -4,7 +4,7 @@
 int main() {
     char c = 'A';
 
-    printf("The character is: %c\n", c);
+    printf("The naufal is: %c\n", c);
     return 0;
 }
 
