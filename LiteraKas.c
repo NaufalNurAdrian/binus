@@ -5,6 +5,7 @@ int main() {
     char c = 'A';
 
     printf("The naufal is: %c\n", c);
+    printf("The naufal is: %c\n", c);
     return 0;
 }
 
