@@ -31,6 +31,6 @@ int main() {
 int main() {
     char c = 'A';
 
-    printf("The character is: %c\n", c);
+    printf("Test: %c\n", c);
     return 0;
 }
