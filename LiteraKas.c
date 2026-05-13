@@ -13,8 +13,8 @@ int main() {
 //azril
 int main() {
     char c = 'A';
-
-    printf("The character is: %c\n", c);
+    
+    printf("The ashjing is: %c\n", c);
     return 0;
 }
 
